@@ -3,51 +3,41 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Menu - Simple Café</title>
+  <title>Simple Café | Menu</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
-    <h1>Our Menu</h1>
-    <nav>
-      <a href="index.html">Home</a>
-      <a href="about.html">About</a>
-      <a href="menu.html">Menu</a>
-      <a href="contact.html">Contact</a>
+    <nav class="navbar">
+      <h1 class="logo">☕ Simple Café</h1>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="menu.html">Menu</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
     </nav>
   </header>
 
-  <section>
-    <h2>Breakfast</h2>
-    <ul>
-      <li>Pancakes</li>
-      <li>Omelette</li>
-    </ul>
-
-    <h2>Lunch</h2>
-    <ul>
-      <li>Grilled Sandwich</li>
-      <li>Chicken Salad</li>
-    </ul>
-
-    <h2>Desserts</h2>
-    <ul>
-      <li>Chocolate Cake</li>
-      <li>Ice Cream</li>
-    </ul>
-
-    <h2>Drinks</h2>
-    <ul>
-      <li>Coffee</li>
-      <li>Fresh Juice</li>
-    </ul>
-
-    <img src="Menu.jpg" alt="Menu items">
-  </section>
+  <main>
+    <section class="menu">
+      <h2>Our Menu</h2>
+      <div class="menu-items">
+        <div class="item">
+          <img src="images/coffee.jpg" alt="Coffee">
+          <h3>Espresso</h3>
+          <p>Strong and bold coffee shot.</p>
+        </div>
+        <div class="item">
+          <img src="images/cake.jpg" alt="Cake">
+          <h3>Chocolate Cake</h3>
+          <p>Rich and creamy dessert.</p>
+        </div>
+      </div>
+    </section>
+  </main>
 
   <footer>
-    <p>© 2026 Simple Café</p>
+    <p>© 2026 Simple Café | Designed by Sadab Easir Oronno</p>
   </footer>
 </body>
 </html>
-
