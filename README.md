@@ -36,3 +36,7 @@ HTML | CSS | JavaScript (basic)
 | Day 5 | Test and fix problems |
 
 ## 📁 Folder Structure
+
+## 🌐 Live Demo
+Visit the website here: [Simple Café Website](https://oronnohacker.github.io/oronnohacker-debug/)
+
