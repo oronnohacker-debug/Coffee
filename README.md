@@ -40,3 +40,13 @@ HTML | CSS | JavaScript (basic)
 ## 🌐 Live Demo
 Visit the website here: [Simple Café Website](https://oronnohacker.github.io/oronnohacker-debug/)
 
+
+🌐 My Web Projects
+
+## ☕ Café Website
+- **Live Demo:** [Simple Café Website](https://oronnohacker-debug.github.io/Coffee/)
+
+### 📸 Preview Screenshots
+![Home Page](images/home_page.PNG)
+![Menu Page](images/menu_page.PNG)
+![Contact Page](images/contact_page.PNG)
